@@ -2,7 +2,7 @@ Name : NAMRATA HIWALE Company :Prodigy-InfoTech CIN :PIT/JUL24/06316 Domain :DAT
 
 Overview of the Project
 
-Prodigy-InfoTech_DS_03-Intern-Namrata-Jupyter-Lab-Task-3
+#Prodigy-InfoTech_DS_03-Intern-Namrata-Jupyter-Lab-Task-3
 
 As an Intern, I have created and completed in 12-14 days in Jupyter Lab as per the task of Prodigy InfoTech i.e., DATA SCIENCE ----TASK 3.
 
